@@ -1,2 +1,2 @@
-# eric.small.io
+# eric-small.io
 Eric Small Website
